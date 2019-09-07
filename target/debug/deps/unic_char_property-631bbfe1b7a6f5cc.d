@@ -1,0 +1,10 @@
+/media/maher/extra/rust/rust_book/projects/saico/target/debug/deps/unic_char_property-631bbfe1b7a6f5cc.rmeta: /home/maher/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/lib.rs /home/maher/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/pkg_info.rs /home/maher/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/property.rs /home/maher/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/range_types.rs /home/maher/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/macros.rs /home/maher/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/tables.rs
+
+/media/maher/extra/rust/rust_book/projects/saico/target/debug/deps/unic_char_property-631bbfe1b7a6f5cc.d: /home/maher/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/lib.rs /home/maher/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/pkg_info.rs /home/maher/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/property.rs /home/maher/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/range_types.rs /home/maher/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/macros.rs /home/maher/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/tables.rs
+
+/home/maher/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/lib.rs:
+/home/maher/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/pkg_info.rs:
+/home/maher/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/property.rs:
+/home/maher/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/range_types.rs:
+/home/maher/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/macros.rs:
+/home/maher/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/tables.rs:

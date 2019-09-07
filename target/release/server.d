@@ -1,0 +1,1 @@
+/media/maher/extra/rust/rust_book/projects/saico/target/release/server: /media/maher/extra/rust/rust_book/projects/saico/addons/accounting/account/src/lib.rs /media/maher/extra/rust/rust_book/projects/saico/addons/accounting/account_assets/src/lib.rs /media/maher/extra/rust/rust_book/projects/saico/server/src/main.rs /media/maher/extra/rust/rust_book/projects/saico/sql/src/lib.rs

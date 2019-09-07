@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Index</title>
+</head>
+<body>
+    <h1>Menue</h1>
+    <h2>Hello, world, I am the server</h2>
+    <h2>{{context }}</h2>
+    <form>
+
+        <label>Uasername</label>
+        <input title="username" type="text"></br>
+    </br>
+        <label>Password</label>
+        <input title="password" type="password"></br>
+    </br>
+        <button type="submit" name="I am new ERP system">I am new ERP system</button>
+    </form>
+
+</body>
+</html>

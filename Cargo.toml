@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "server",
+    "sql",
+    "addons/accounting/account",
+    "addons/accounting/account_assets",
+
+]

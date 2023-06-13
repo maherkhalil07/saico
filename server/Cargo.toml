@@ -10,7 +10,7 @@ edition = "2018"
 sql = {path = "../sql"}
 account = {path = "../addons/accounting/account"}
 account_assets = {path = "../addons/accounting/account_assets"}
-rocket = "0.4.2"
+rocket = "0.4.7"
 serde = "1.0.99"
 serde_json = "1.0.40"
 serde_derive = "1.0.99"
